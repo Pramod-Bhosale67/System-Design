@@ -10,6 +10,12 @@ This repository is intended to help developers, architects, and students underst
 
 All diagrams are available in the Diagrams folder. You can directly view them from the repository or download them for reference.
 
+**📌NOTE: How to Use**
+1. filename.drawio.svg -> This file contains the daigram of the system.
+2. filename.png -> this file contains requirement of the system.
+3. filename.drawio -> this is the main file, which can be imported into the draw.io website.
+
+
 **📚 Topics Covered**
 
 1. Parking Lot System
