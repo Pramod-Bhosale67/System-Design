@@ -22,15 +22,7 @@ All diagrams are available in the Diagrams folder. You can directly view them fr
 
 2. Elevator System
 
-3. Car Rentle
-
-4. Library Management
-
-5. Hotel Management
-
-6. LinkedIn Design System
-
-7. Message Queues (Kafka, RabbitMQ, SQS)
+3. Rate Limiter
 
 
 
