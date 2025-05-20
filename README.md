@@ -24,5 +24,9 @@ All diagrams are available in the Diagrams folder. You can directly view them fr
 
 3. Rate Limiter
 
+4. Design a Notification System
+
+5. Design a Consistent Hashing
+
 
 
